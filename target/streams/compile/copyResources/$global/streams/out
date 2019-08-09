@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mhashendre/Desktop/CingleVue/studentservice/conf/logback.xml,/home/mhashendre/Desktop/CingleVue/studentservice/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mhashendre/Desktop/CingleVue/studentservice/conf/routes,/home/mhashendre/Desktop/CingleVue/studentservice/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mhashendre/Desktop/CingleVue/studentservice/conf/application.conf,/home/mhashendre/Desktop/CingleVue/studentservice/target/scala-2.12/classes/application.conf)[0m

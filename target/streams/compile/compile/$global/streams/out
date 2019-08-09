@@ -1,0 +1,2 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/mhashendre/Desktop/CingleVue/studentservice/app/controllers/StudentController.java:34:1: request() in play.mvc.Controller has been deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0m		JsonNode requestData = request().body().asJson();[0m
